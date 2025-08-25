@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeHrmApi", "OrangeHrmApi\OrangeHrmApi.csproj", "{C67E8C6F-8D1A-4D16-9DBC-193785B361C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeHrmTest", "OrangeHrmTest\OrangeHrmTest.csproj", "{27681437-A9B1-4134-8419-920D3A96784D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67E8C6F-8D1A-4D16-9DBC-193785B361C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67E8C6F-8D1A-4D16-9DBC-193785B361C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67E8C6F-8D1A-4D16-9DBC-193785B361C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67E8C6F-8D1A-4D16-9DBC-193785B361C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27681437-A9B1-4134-8419-920D3A96784D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27681437-A9B1-4134-8419-920D3A96784D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27681437-A9B1-4134-8419-920D3A96784D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27681437-A9B1-4134-8419-920D3A96784D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE54FDA-656C-4A9B-9465-6C5C06B35670}
+	EndGlobalSection
+EndGlobal
