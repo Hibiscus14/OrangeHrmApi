@@ -178,7 +178,7 @@ namespace OrangeHrmApi.Services.Pages
                     }
                 }
 
-                    optionText, fieldName, string.Join(", ", options.Select(o => o.Text)));
+                _logger.LogInformation(optionText, fieldName, string.Join(", ", options.Select(o => o.Text)));
 
                 _driver.FindElement(By.TagName("body")).Click();
                 return false;
